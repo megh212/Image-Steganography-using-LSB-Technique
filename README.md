@@ -30,9 +30,16 @@ pip install numpy
 ```
 ## usage
 
+
 step-1. clonning--> git clone repo. or download zip file  
 
 step-2. run 'python imgstegno.py'
 
 step-3. give respective inputes and get outputs
+
+##OUTPUT 
+
+![2023-11-22 17_14_06-2023-11-22 17_10_05- png ‎- Photos](https://github.com/megh212/Image-Steganography-using-LSB-Technique/assets/88397453/8180bb13-a3b0-42dd-ae89-cb7d73ea5153)
+![2023-11-22 17_15_34-2023-11-22 17_11_00- png ‎- Photos](https://github.com/megh212/Image-Steganography-using-LSB-Technique/assets/88397453/5b92af09-2949-4790-8837-ad9f81e28062)
+
 
